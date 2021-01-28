@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Cy1der Darkfire126",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkfire126/HBCYCmds.git"
+  },
+  "keywords": [
+    "Discord.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Darkfire126/HBCYCmds/issues"
+  },
+  "homepage": "https://github.com/Darkfire126/HBCYCmds#readme"
 }
